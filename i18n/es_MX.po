@@ -1,0 +1,88 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* website_sale_login
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 10.0+e\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-05 21:16+0000\n"
+"PO-Revision-Date: 2018-05-05 16:18-0500\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"Language: en\n"
+"X-Generator: Poedit 2.0.7\n"
+
+#. module: website_sale_login
+#: model:ir.ui.view,arch_db:website_sale_login.login_product_item_sale
+msgid ""
+"<b>\n"
+"\t\t\t\t\t\t\t\t\t<small style=\"display:none;\">You must be logged to see Prices and Stock</small>\n"
+"\t\t\t\t\t\t\t\t</b>"
+msgstr ""
+"<b>\n"
+"\t\t\t\t\t\t\t\t\t<small style=\"display:none;\">Debe estar logeado para ver Precios y Existencia</small>\n"
+"\t\t\t\t\t\t\t\t</b>"
+
+#. module: website_sale_login
+#: model:ir.ui.view,arch_db:website_sale_login.login_product_details
+#: model:ir.ui.view,arch_db:website_sale_login.login_product_sale
+msgid "<b><small>You must be logged to see Prices and Stock</small></b>"
+msgstr "<b><small>Debe estar logeado para ver precios y existencias</small></b>"
+
+
+#. module: website_sale_login
+#: model:ir.ui.view,arch_db:website_sale_login.login_product_details
+#: model:ir.ui.view,arch_db:website_sale_login.login_product_sale
+msgid "<b><small>To know the exact prices, contact one of our executives</small></b>"
+msgstr "<b><small>Para conocer los precios exactos, póngase en contacto con alguno de nuestros ejecutivos</small></b>"
+
+#. module: website_sale_login
+#: model:ir.ui.view,arch_db:website_sale_login.login_product_details
+#: model:ir.ui.view,arch_db:website_sale_login.login_product_sale
+msgid "<strong><p><b><medium>To know the exact prices, contact one of our executives</medium></b></p></strong>"
+msgstr "<strong><p><b><medium>TPara conocer los precios exactos, contacte a uno de nuestros ejecutivos</medium></b></p></strong>"
+
+#. module: website_sale_login
+#: model:ir.ui.view,arch_db:website_sale_login.login_product_item_sale
+msgid ""
+"<br/>\n"
+"\t\t\t\t\t\t\t\t\t<b><small>You must be logged to see Prices and Stock</small></b>"
+msgstr ""
+"<br/>\n"
+"\t\t\t\t\t\t\t\t\t<b><small>Debe estar logeado para ver Precios y Existencia</small></b>"
+
+#. module: website_sale_login
+#: model:ir.ui.view,arch_db:website_sale_login.login_product_items
+msgid "<small>You must be logged to see Prices and Stock</small>"
+msgstr "<small>Debe estar logeado para ver Precios y Existencia</small>"
+
+
+#. module: website_sale_login
+#: model:ir.ui.view,arch_db:website_sale_login.login_product_items
+msgid "<small>To know the exact prices, contact one of our executives</small>"
+msgstr "<small>Para conocer los precios exactos, póngase en contacto con alguno de nuestros ejecutivos</small>"
+
+#. module: website_sale_login
+#: model:ir.ui.view,arch_db:website_sale_login.login_product_details
+#: model:ir.ui.view,arch_db:website_sale_login.login_product_sale
+msgid "Add to Cart"
+msgstr "Añadir al Carro"
+
+#. module: website_sale_login
+#: model:ir.ui.view,arch_db:website_sale_login.login_product_details
+#: model:ir.ui.view,arch_db:website_sale_login.login_product_item_sale
+#: model:ir.ui.view,arch_db:website_sale_login.login_product_items
+#: model:ir.ui.view,arch_db:website_sale_login.login_product_sale
+msgid "Please Login to Continue"
+msgstr "Por favor Ingrese para Continuar"
+
+#. module: website_sale_login
+#: model:ir.ui.view,arch_db:website_sale_login.login_product_details
+#: model:ir.ui.view,arch_db:website_sale_login.login_product_sale
+msgid "Product not available"
+msgstr "Producto no disponible"
